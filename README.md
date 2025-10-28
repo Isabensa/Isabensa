@@ -4,9 +4,7 @@
 Soy docente y desarrolladora <b>Fullstack MERN</b> con conocimientos en <b>Python</b> y una fuerte orientación hacia la educación tecnológica.  
 Combino mi experiencia en docencia y tecnología educativa con el desarrollo de aplicaciones web modernas, enfocadas en el aprendizaje interactivo y el diseño funcional.
 </p>
-
 ---
-
 <h3 align="center">🚀 Tecnologías y herramientas</h3>
 
 <div align="center">
@@ -31,33 +29,25 @@ Combino mi experiencia en docencia y tecnología educativa con el desarrollo de 
 <b>Git · GitHub · Postman · Vercel · Netlify · Render</b>
 
 </div>
-
 ---
-
 ### 🌱 Actualmente trabajando en
 
 - 👩‍🏫 **VirtLab:** plataforma educativa con simulaciones y aulas virtuales.  
 - 🧾 **Gestión de Alumnos:** CRUD completo con MongoDB y React.  
 - 🧮 **Planilla de Cálculo Judicial:** app práctica para cálculo de intereses.  
 - 🍳 **RecetasApp:** frontend moderno con TailwindCSS y animaciones.  
-
 ---
-
 ### 🎯 Objetivo profesional
 
-Seguir creciendo como desarrolladora Fullstack e integrar la programación con la educación, la ciencia y la inteligencia artificial aplicada al aprendizaje.  
-Busco combinar **creatividad, tecnología y pedagogía** para desarrollar experiencias de aprendizaje significativas.
-
+Seguir creciendo como desarrolladora Fullstack, integrando mi experiencia docente con el ámbito tecnológico y empresarial. Busco participar en proyectos que combinen innovación, gestión y desarrollo de software, contribuyendo con soluciones prácticas y creativas tanto en el sector educativo como en entornos corporativos.
+Al mismo tiempo, deseo potenciar mi desarrollo profesional en el área tecnológica y de gestión, aplicando mis conocimientos en programación, análisis y desarrollo de software a proyectos que impulsen la eficiencia, la transformación digital y la innovación sostenida.
 ---
-
 ### 📫 Cómo contactarme
 
 📧 **bensadoncelia@gmail.com**  
 🌍 [GitHub – @Isabensa](https://github.com/Isabensa)  
 💼 [LinkedIn – Isabel Bensadón](#)
-
 ---
-
 <p align="center">
 ⭐ <i>“Aprender es el primer paso para crear algo que valga la pena compartir.”</i> ⭐
 </p>
