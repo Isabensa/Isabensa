@@ -5,25 +5,30 @@ Soy docente y desarrolladora <b>Fullstack MERN</b> con conocimientos en <b>Pytho
 Combino mi experiencia en docencia y tecnología educativa con el desarrollo de aplicaciones web modernas, enfocadas en el aprendizaje interactivo y el diseño funcional.
 </p>
 
----
-
-### 🚀 Tecnologías y herramientas
+<h3 align="center">🚀 Tecnologías y herramientas</h3>
 
 <p align="center">
-  <!-- Lenguajes -->
-  <img src="https://skillicons.dev/icons?i=js,python,html,css" />
-  <br/>
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,framer" />
-  <br/>
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-  <br/>
-  <!-- Herramientas -->
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify,render" />
+
+<!-- Lenguajes -->
+<img src="https://skillicons.dev/icons?i=js,python,html,css" /><br/>
+<b>JavaScript · Python · HTML · CSS</b>
+<br/><br/>
+
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,framer" /><br/>
+<b>React · Vite · TailwindCSS · Framer Motion</b>
+<br/><br/>
+
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /><br/>
+<b>Node.js · Express.js · MongoDB</b>
+<br/><br/>
+
+<!-- Herramientas -->
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify,render" /><br/>
+<b>Git · GitHub · Postman · Vercel · Netlify · Render</b>
 </p>
 
----
 
 ### 🌱 Actualmente trabajando en
 
@@ -32,14 +37,12 @@ Combino mi experiencia en docencia y tecnología educativa con el desarrollo de 
 - 🧮 **Planilla de Cálculo Judicial:** app práctica para cálculo de intereses.  
 - 🍳 **RecetasApp:** frontend moderno con TailwindCSS y animaciones.  
 
----
 
 ### 🎯 Objetivo profesional
 
 Seguir creciendo como desarrolladora Fullstack e integrar la programación con la educación, la ciencia y la inteligencia artificial aplicada al aprendizaje.  
 Busco combinar **creatividad, tecnología y pedagogía** para desarrollar experiencias de aprendizaje significativas.
 
----
 
 ### 📫 Cómo contactarme
 
@@ -47,7 +50,6 @@ Busco combinar **creatividad, tecnología y pedagogía** para desarrollar experi
 🌍 [GitHub – @Isabensa](https://github.com/Isabensa)  
 💼 [LinkedIn – Isabel Bensadón](#)
 
----
 
 <p align="center">
 ⭐ <i>“Aprender es el primer paso para crear algo que valga la pena compartir.”</i> ⭐
